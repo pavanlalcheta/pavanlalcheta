@@ -3,7 +3,7 @@ MCA student specializing in full stack development with strong skills in Node.js
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan_lalcheta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-lalcheta-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanlalcheta203@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=google-chrome&logoColor=white)](https://pavanlalcheta.github.io/pavan-portfolio/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavan_lalcheta) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavan-lalcheta-/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanlalcheta203@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=google-chrome&logoColor=white)](https://pavanlalcheta.github.io/pavan-portfolio/)
 
 
 
